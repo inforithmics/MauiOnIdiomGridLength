@@ -1,0 +1,4 @@
+*.dll
+*.pdb
+/MauiApp3/bin
+/MauiApp3/obj
